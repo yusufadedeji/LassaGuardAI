@@ -1,0 +1,1 @@
+LassaGuard AI is a machine learning tool that predicts the risk of Lassa fever in Nigerian households based on environmental conditions such as rodent infestation, waste disposal practices, vegetation density, and sanitation.
